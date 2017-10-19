@@ -1,0 +1,22 @@
+The data are stored in this text.
+This is the Rm_sf_0p6_T_60 case.
+The initial condition option is TL
+The boundary condition option is DN
+
+The flux option is Rm
+The parameters are:
+
+N = 121
+x_low = -2000
+x_sup = 4000
+M = 101
+T = 60
+nu = 1
+dx = 50
+dt = 0.6
+N_itr = 200000
+err = 0.001115544218
+vm = 50
+rhom = 0.1
+safe_fac = 0.6
+

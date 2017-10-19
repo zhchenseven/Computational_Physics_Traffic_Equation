@@ -1,0 +1,22 @@
+The data are stored in this text.
+This is the Roe_sf_0p9_T_20 case.
+The initial condition option is TL_di
+The boundary condition option is DN
+
+The flux option is Roe
+The parameters are:
+
+N = 121
+x_low = -2000
+x_sup = 4000
+M = 24
+T = 20
+nu = 1
+dx = 50
+dt = 0.9
+N_itr = 200000
+err = 0.01774970236
+vm = 50
+rhom = 0.1
+safe_fac = 0.9
+

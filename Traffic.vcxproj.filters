@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="example1.cpp" />
+    <ClCompile Include="Para.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="IBC.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Evo_dynam.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Data_process.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="run_LW_sf_0p9.cpp">
+      <Filter>Run Files_0p9</Filter>
+    </ClCompile>
+    <ClCompile Include="run_Rm_sf_0p9.cpp">
+      <Filter>Run Files_0p9</Filter>
+    </ClCompile>
+    <ClCompile Include="run_Roe_sf_0p9.cpp">
+      <Filter>Run Files_0p9</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_LW.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_REF.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_Rm.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_Roe.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_REF_sf_0p9.cpp">
+      <Filter>Run Files_0p9</Filter>
+    </ClCompile>
+    <ClCompile Include="run_Rm_sf_0p3_ini_di.cpp">
+      <Filter>Run Files_0p9</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_Rm_ini_di.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_LW_ini_di.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_Roe_ini_di.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_Roe_sf_0p9_ini_di.cpp">
+      <Filter>Run Files_0p9</Filter>
+    </ClCompile>
+    <ClCompile Include="run_Rm_sf_0p3_exa_part_Rm.cpp">
+      <Filter>Run Files_0p9</Filter>
+    </ClCompile>
+    <ClCompile Include="scan_Rm_exa_part_Rm.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{a6286681-a2e7-4b60-872e-ffe0ce36116b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{3be55671-d355-4999-8425-a9168054bc31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Run Files_0p9">
+      <UniqueIdentifier>{3f517ec5-f526-4a62-bdb0-05f253082b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scan Files">
+      <UniqueIdentifier>{44c34ce8-23f7-448d-ac11-7067fb302e64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Para.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="IBC.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Evo_dynam.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Data_process.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

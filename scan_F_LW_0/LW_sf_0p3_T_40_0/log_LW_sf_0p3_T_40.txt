@@ -1,0 +1,22 @@
+The data are stored in this text.
+This is the LW_sf_0p3_T_40 case.
+The initial condition option is TL
+The boundary condition option is DN
+
+The flux option is LW
+The parameters are:
+
+N = 101
+x_low = -1000
+x_sup = 4000
+M = 245
+T = 40
+nu = 1
+dx = 50
+dt = 0.04736758809
+N_itr = 200000
+err = 0.01366891837
+vm = 50
+rhom = 0.1
+safe_fac = 0.3
+

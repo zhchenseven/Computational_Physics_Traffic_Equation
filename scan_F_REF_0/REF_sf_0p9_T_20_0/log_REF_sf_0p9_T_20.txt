@@ -1,0 +1,22 @@
+The data are stored in this text.
+This is the REF_sf_0p9_T_20 case.
+The initial condition option is TL
+The boundary condition option is DN
+
+The flux option is REF
+The parameters are:
+
+N = 121
+x_low = -2000
+x_sup = 4000
+M = 24
+T = 20
+nu = 1
+dx = 50
+dt = 0.9
+N_itr = 200000
+err = 0.01747032027
+vm = 50
+rhom = 0.1
+safe_fac = 0.9
+

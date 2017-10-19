@@ -1,0 +1,22 @@
+The data are stored in this text.
+This is the LW_sf_0p6_T_60 case.
+The initial condition option is TL
+The boundary condition option is DN
+
+The flux option is LW
+The parameters are:
+
+N = 101
+x_low = -1000
+x_sup = 4000
+M = 300
+T = 60
+nu = 1
+dx = 50
+dt = 0.1092866879
+N_itr = 200000
+err = 0.01390803581
+vm = 50
+rhom = 0.1
+safe_fac = 0.6
+
