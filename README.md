@@ -5,7 +5,7 @@ The code is for the third course project in computational fluid dynamics (MASE 5
 
 Here, we adopt the object-oriented numerical framework to simulate the physics. The .h and .cpp files that are not beginning with 'run' are files are the classes for defining the numerical procedures. Specifically, Para.cpp and Para.h defines the physical parameters for the equation, the set-up, and for the mesh. IBC.cpp and IBC.h defines the initial and boundary conditions for a specified selection. Then, Evo_dynam.cpp and Evo_dynam.h evolves the iterations that leads to the convergence of thermal equilibrium states. Finally, Data_process.cpp and Data_process.h processes and stores the data, which are further visualized, animated, and interpreted using python.
 
-The run_*.cpp files provide main functions to invoke, embody the class and define a numerical investigations. Various .cpp files are for the case of various parameter sets. The scan_*.cpp files provide various numerical investigations for various parameter sets.
+The run_*.cpp files provide main functions to invoke, embody the class and define a numerical investigations. Various .cpp files are for the case of various parameter sets and various finite volume schemes. The scan_*.cpp files provide various numerical investigations for various parameter sets.
 
 Here, we employ the python files for processing data and generating animations. In doing so, READ_DATA.py and Make_movie.py define the classes. gen_movie_script_*.py provide the main functions for generating animations to show the numerical simulation of the dynamical traffic change. plot_*.py provides the main function for processing and plotting data.
 
