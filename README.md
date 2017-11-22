@@ -15,4 +15,4 @@ For the python code, the project work by using the pycharm IDE with specified an
 
 For the C++ code, we invoke the Armadillo library (http://arma.sourceforge.net/) that provides MATLAB-like functions for linear algebra operations. For the Windows user, one needs to install the MS Visual Studio 2015, and open the example1_win64.vcxproj for running the code. For the Mac OS or Ubuntu user, one needs to install the armadillo library at first (please refer to the readme.txt in the downloaded armadillo package), then compile and link the codes.
 
-In the end, we attach several sub-folders to show the animations that represent photon scattering process.  This already includes the cases of various waveforms, various end points of time, and various finite volume schemes. You are very welcome to watch and comment on the animations.
+In the end, we attach several sub-folders to show the animations that represent photon scattering process.  This already includes the cases of various end points of time, and various finite volume schemes. You are very welcome to watch and comment on the animations.
